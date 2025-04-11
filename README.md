@@ -15,8 +15,11 @@
     - 🚩 [Personal Website]()   <!-- (https://jtcrosser.com/) -->
     - 🚩 [Email](jcrosser19@gmail.com)
       
-- 🏴 Recent reads 📖
-    - 
+- 🏴 Recent reads 
+    - 💭 _Scientific Models in Philosophy of Science_ by Daniela Bailer-Jones
+    - ♾️ _Methods of Information Geometry_ by Shun-Ichi Amari
+    - 💭 _Context Changes Everything: How Constraints Create Coherence_ by Alicia Juarrero
+    - 👥 _Pirate Enlightenment, or the Real Libertalia_ by David Graeber
 
 
 
